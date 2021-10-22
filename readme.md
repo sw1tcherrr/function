@@ -1,7 +1,7 @@
 # function
 
-Reimplements std::function with small object optimisation
+Reimplements `std::function` with small object optimisation
 
 ### Compilation
 
-Requires C++17
+Requires `C++17`
